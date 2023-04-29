@@ -9,15 +9,4 @@ fourth line on another branch
 fifth line for pull compare
 
 
-<<<<<<< HEAD
-Conflict : sixth line added by local system
-
-
-Seventh line added from local system
-=======
-
-
-
-Conflict : Sixth line added from github site
-
->>>>>>> 47bcdf39fa7faabd5a84143d62452eb6ee2eeb19
+revert pull
