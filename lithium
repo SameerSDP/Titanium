@@ -9,22 +9,16 @@ fourth line on another branch
 fifth line for pull compare
 
 
-<<<<<<< HEAD
-eight line for conflict
 
 ============
 05 may first commit
 =======
-<<<<<<< HEAD
-Conflict : sixth line added by local system
+
 
 
 Seventh line added from local system
-=======
 
+revert pull
 
+new branch pull test 
 
-Conflict : Sixth line added from github site
-
->>>>>>> 47bcdf39fa7faabd5a84143d62452eb6ee2eeb19
->>>>>>> a56846866cd3ab40e09ceaaa6771033d842e2ef1
